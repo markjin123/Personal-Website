@@ -1,0 +1,48 @@
+body{
+	margin:0;
+}
+
+
+header{
+	background:white;
+}
+
+header h1 {
+	margin:0;
+	text-align:center;
+	font-size:300%;
+}
+
+nav ul{
+	margin:0;
+	padding:0;
+}
+
+nav ul li{
+	display:inline-block;
+	background:black;
+	color:white;
+	float:left;
+	width:25%;
+	list-style-type:none;
+	font-size:150%;
+	padding:0.05% 0%;
+}
+
+nav ul li a{
+	color:white;
+}
+
+.row:after {
+	clear: both; content: " "; display: table;
+}
+
+.col{
+	float:left;
+	width:33%;
+}
+
+
+footer{
+
+	}
