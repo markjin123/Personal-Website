@@ -4,3 +4,16 @@ footer{
 	bottom:0px;
 	width:100%;
 }
+
+.jumbotron{
+	margin:6% 0%;
+}
+
+.special{
+	color:blue;
+}
+
+.jumbotron.h1{
+	padding:0;
+
+}
